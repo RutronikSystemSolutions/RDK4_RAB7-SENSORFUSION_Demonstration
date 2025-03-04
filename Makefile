@@ -46,7 +46,7 @@ TARGET=APP_RDK4
 #
 # If APPNAME is edited, ensure to update or regenerate launch
 # configurations for your IDE.
-APPNAME=empty-rdk4-app
+APPNAME=rdk4-rab7-sensorfusion-demo
 
 # Name of toolchain to use. Options include:
 #

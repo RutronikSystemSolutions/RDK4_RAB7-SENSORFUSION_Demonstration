@@ -1,12 +1,12 @@
 /******************************************************************************
 * File Name:   main.c
 *
-* Description: This is the source code for the Empty RDK4  Application
-*              for ModusToolbox.
+* Description: This is the source code for the RDK4 RAB7-SENSORFUSION  
+*             Application for ModusToolbox.
 *
 * Related Document: See README.md
 *
-* Created on: 2023-04-04
+* Created on: 2025-03-04
 * Company: Rutronik Elektronische Bauelemente GmbH
 * Address: Jonavos g. 30, Kaunas 44262, Lithuania
 * Author: GDR
