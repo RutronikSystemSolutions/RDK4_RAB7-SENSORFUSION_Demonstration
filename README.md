@@ -34,7 +34,7 @@ The data of all the sensors of RAB7-SENSORFUSION is printed out to the KitProg3 
 
 ## Requirements
 
-- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) **v3.x** [built with **v3.2**]
+- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) v2025.4.0
 - RAB7-SENSORFUSION Arduino Adapter Board.
 
 ## Supported toolchains (make variable 'TOOLCHAIN')
